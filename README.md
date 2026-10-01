@@ -65,34 +65,44 @@ finds arbitrage opportunities with confidence scoring and calculates profit afte
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,elixir,python&theme=dark" alt="TypeScript, JavaScript, Elixir, Python" />
+<img src="assets/stack/languages.svg" alt="TypeScript · JavaScript · Elixir · Python" title="TypeScript · JavaScript · Elixir · Python" /><br/>
+<sub>TypeScript · JavaScript · Elixir · Python</sub>
 
 **Web frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,html,css&theme=dark" alt="React, Next.js, Astro, Vite, Tailwind, HTML, CSS" /><br/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?logo=react&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-0AE448?logo=greensock&style=flat-square&logoColor=white" />
+<img src="assets/stack/frontend.svg" alt="React · Next.js · Astro · Vite · Tailwind CSS · HTML · CSS" title="React · Next.js · Astro · Vite · Tailwind CSS · HTML · CSS" /><br/>
+<sub>React · Next.js · Astro · Vite · Tailwind CSS · HTML · CSS</sub>
+
+**UI, state & forms**<br/>
+<img src="assets/stack/frontend-libs.svg" alt="shadcn/ui · Radix UI · TanStack Query · React Hook Form · Zod · Zustand · Framer Motion · GSAP" title="shadcn/ui · Radix UI · TanStack Query · React Hook Form · Zod · Zustand · Framer Motion · GSAP" /><br/>
+<sub>shadcn/ui · Radix UI · TanStack Query · React Hook Form · Zod · Zustand · Framer Motion · GSAP</sub>
 
 **Mobile web**<br/>
-<img src="https://img.shields.io/badge/PWA%20(installable%20%2B%20offline)-5A0FC8?logo=pwa&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Push-4285F4?logo=googlechrome&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Web%20Bluetooth%20(thermal%20printers)-0082FC?logo=bluetooth&style=flat-square&logoColor=white" />
+<img src="assets/stack/mobile.svg" alt="PWA (installable + offline + web push) · Web Bluetooth (thermal printers)" title="PWA (installable + offline + web push) · Web Bluetooth (thermal printers)" /><br/>
+<sub>PWA (installable + offline + web push) · Web Bluetooth (thermal printers)</sub>
 
 **Backend, data & real-time**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,redis&theme=dark" alt="Node.js, Prisma, PostgreSQL, Redis" /><br/>
-<img src="https://img.shields.io/badge/Neon%20Postgres-00E599?logo=neon&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Upstash%20Redis-00E9A3?logo=upstash&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Pusher-300D4F?logo=pusher&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Better%20Auth%20%2F%20NextAuth%20%2F%20JWT-000000?logo=betterauth&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Elixir%20%2B%20Plug%20%2F%20Bandit-4B275F?logo=elixir&style=flat-square&logoColor=white" />
+<img src="assets/stack/backend.svg" alt="Node.js · Prisma · PostgreSQL · Redis · Neon · Upstash · Socket.IO · Pusher · Better Auth · JWT" title="Node.js · Prisma · PostgreSQL · Redis · Neon · Upstash · Socket.IO · Pusher · Better Auth · JWT" /><br/>
+<sub>Node.js · Prisma · PostgreSQL · Redis · Neon · Upstash · Socket.IO · Pusher · Better Auth · JWT</sub>
 
 **Payments & integrations**<br/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Mercado%20Pago%20(Point%20%2B%20Pix)-00B1EA?logo=mercadopago&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?logo=whatsapp&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Resend-000000?logo=resend&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&style=flat-square&logoColor=white" />
+<img src="assets/stack/integrations.svg" alt="Stripe · Mercado Pago (Point + Pix) · WhatsApp Business API · Resend · Puppeteer" title="Stripe · Mercado Pago (Point + Pix) · WhatsApp Business API · Resend · Puppeteer" /><br/>
+<sub>Stripe · Mercado Pago (Point + Pix) · WhatsApp Business API · Resend · Puppeteer</sub>
 
 **AI / LLM**<br/>
-<img src="https://img.shields.io/badge/Claude%20API%20(Anthropic)-D97757?logo=claude&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Tool%20use%20%C2%B7%20Streaming%20(SSE)-1a1b27?style=flat-square&logoColor=white" />
+<img src="assets/stack/ai.svg" alt="Claude API · Anthropic SDK · OpenAI API" title="Claude API · Anthropic SDK · OpenAI API" /><br/>
+<sub>Claude API · Anthropic SDK · OpenAI API</sub>
 
 **Testing**<br/>
-<img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Jest, Vitest" /><br/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&style=flat-square&logoColor=white" />
+<img src="assets/stack/testing.svg" alt="Jest · Vitest · Playwright · Testing Library" title="Jest · Vitest · Playwright · Testing Library" /><br/>
+<sub>Jest · Vitest · Playwright · Testing Library</sub>
 
 **DevOps & tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,githubactions,docker,vercel,vscode&theme=dark" alt="Git, GitHub Actions, Docker, Vercel, VS Code" />
+<img src="assets/stack/devops.svg" alt="Git · GitHub Actions · Docker · Vercel · VS Code" title="Git · GitHub Actions · Docker · Vercel · VS Code" /><br/>
+<sub>Git · GitHub Actions · Docker · Vercel · VS Code</sub>
 
 **Learning next**<br/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-000020?logo=expo&style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" />
+<img src="assets/stack/learning.svg" alt="React Native · Expo · AWS" title="React Native · Expo · AWS" /><br/>
+<sub>React Native · Expo · AWS</sub>
 
 </div>
 
