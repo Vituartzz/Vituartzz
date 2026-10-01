@@ -28,7 +28,7 @@ financial reports and WhatsApp/e-mail automation — from the database schema to
 
 > Private repositories built for clients — code can't be shared, but I'm happy to walk through the architecture in an interview.
 
-#### 🛍️ Retail ERP & POS — piercing studio + jewelry store chain
+#### 💎 Retail ERP & POS — jewelry store chain
 Multi-store management system running in production every day at the counter.
 
 - **POS** with Mercado Pago Point terminals and Pix (server-side price validation, refunds, cash-register reconciliation)
